@@ -1,0 +1,50 @@
+{[
+  {
+    "date": "2026-10-09",
+    "day": "Friday",
+    "time": "10:00",
+    "free_slots": 1
+  },
+  {
+    "date": "2026-10-09",
+    "day": "Friday",
+    "time": "14:00",
+    "free_slots": 5
+  },
+  {
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "time": "10:00",
+    "free_slots": 12
+  },
+  {
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "time": "14:00",
+    "free_slots": 3
+  },
+  {
+    "date": "2026-10-16",
+    "day": "Friday",
+    "time": "10:00",
+    "free_slots": 10
+  },
+  {
+    "date": "2026-10-16",
+    "day": "Friday",
+    "time": "14:00",
+    "free_slots": 7
+  },
+  {
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "time": "10:00",
+    "free_slots": 6
+  },
+  {
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "time": "14:00",
+    "free_slots": 1
+  }
+]}
